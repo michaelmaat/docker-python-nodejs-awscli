@@ -1,4 +1,4 @@
-[![Travis](https://img.shields.io/michaelmaat/docker-python-nodejs-awscli.svg)](https://travis-ci.org/beevelop/docker-nodejs)
+[![Travis](https://travis-ci.org/michaelmaat/docker-python-nodejs-awscli.svg?branch=master)](https://travis-ci.org/michaelmaat/docker-python-nodejs-awscli)
 
 # Docker image
 - Python: latest
